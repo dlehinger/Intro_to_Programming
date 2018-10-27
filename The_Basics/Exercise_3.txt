@@ -1,0 +1,13 @@
+movies = {
+:pulp_fiction => '1994',
+:the_big_lebowski => '1998',
+:true_romance => '1993',
+:amores_perros => '2000',
+:city_of_god => '2002',
+}
+
+puts movies[:pulp_fiction]
+puts movies[:the_big_lebowski]  
+puts movies[:true_romance]
+puts movies[:amores_perros]
+puts movies[:city_of_god]
