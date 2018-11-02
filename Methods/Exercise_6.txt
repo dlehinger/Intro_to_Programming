@@ -1,0 +1,3 @@
+puts "only one argument is provided in a method, similar to the multiply
+method mentioned in the Methods chapter of Intro to Programming, that 
+requires two arguments to be provided in order to get the product"
