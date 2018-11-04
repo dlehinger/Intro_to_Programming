@@ -1,0 +1,2 @@
+fruits = ["apple", "pear", "grapes", "banana", "plum"]
+fruits.each_with_index { |fruit, index| puts " #{index + 1}. #{fruit}" }

@@ -1,0 +1,6 @@
+puts "What would you like to do?"
+input = gets.chomp
+while input != "STOP"
+  puts "What would you like to do now?"
+  input = gets.chomp
+end

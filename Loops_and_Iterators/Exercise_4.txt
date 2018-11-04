@@ -1,0 +1,12 @@
+def countdown(number)
+  if number <= 0
+    puts number
+  else
+    puts number
+    countdown(number - 1)
+  end 
+end
+
+puts countdown(20)
+puts countdown(0)
+puts countdown(-5)
