@@ -1,0 +1,4 @@
+puts "1. return 1 value is [["b"], ["b", 2], ["b", 3], ["a", 1], 
+["a", 2], ["a", 3]]"
+
+puts "2. return [1, 2, 3] value is [["b"], ["a", [1, 2, 3]]]"

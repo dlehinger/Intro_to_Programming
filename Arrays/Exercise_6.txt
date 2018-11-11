@@ -1,0 +1,2 @@
+puts "the problem is that a string is being used as the index to an 
+array and can be solved by correctly using an integer as the index"
