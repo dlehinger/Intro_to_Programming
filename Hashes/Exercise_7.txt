@@ -1,0 +1,2 @@
+puts "my_hash uses the new hash syntax and my_hash2 uses the old hash 
+syntax"

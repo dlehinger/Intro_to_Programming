@@ -1,0 +1,6 @@
+football = { Seahawks: "Wilson", Falcons: "Ryan", Chiefs: "Mahomes" }
+
+puts football.keys
+puts football.values
+football.each { |key, value| puts "The quarterback for the #{key} is 
+#{value}." }

@@ -1,0 +1,10 @@
+a = { dog: "Clifford", cat: "Simon"}
+b = { fruit: "Apple", vegetable: "Carrot"}
+
+puts a.merge(b)
+puts a 
+puts b
+
+puts a.merge!(b)
+puts a 
+puts b

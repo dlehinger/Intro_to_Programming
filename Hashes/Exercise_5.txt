@@ -1,0 +1,3 @@
+football = {Seahawks: "Wilson", Falcons: "Ryan", Chiefs: "Mahomes"}
+
+puts football.has_value?("Ryan")
