@@ -1,0 +1,1 @@
+puts "Nothing. The .call method must be used to activate the block."

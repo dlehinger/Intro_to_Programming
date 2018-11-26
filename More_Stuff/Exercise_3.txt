@@ -1,0 +1,3 @@
+puts "Exception handling is writing code in such a way that you prepare 
+for certain exceptional conditions. It prevents shutting down or exiting 
+of the program entirely."

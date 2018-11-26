@@ -1,0 +1,2 @@
+puts "The ampersand sign is required in the method parameter in order to
+allow a block to be passed as a parameter."
