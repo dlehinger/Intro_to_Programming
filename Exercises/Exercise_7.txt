@@ -1,0 +1,2 @@
+puts "The major difference between an array and a hash is that arrays
+are an ordered list and hashes are values indexed by keys."

@@ -1,0 +1,2 @@
+puts dogs = { Egypt: "Doberman", Mac: "Rottweiler", Cuddie: "Pitbull" }
+puts cats = { :Quincy => "Manx", :Java => "Burmese", :Kitty => "Balinese" }

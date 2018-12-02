@@ -1,0 +1,5 @@
+array_hash_value = {key1: ["hello", "bye", "hi"]}
+puts array_hash_value
+
+array_of_hashes = [{fruit: "apple"}, {veggie: "carrot"}, {nut: "almond"}]
+puts array_of_hashes

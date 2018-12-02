@@ -1,0 +1,3 @@
+puts '"These hashes are the same!" because a combo of the old and new form
+of creating a hash was used differently in each has but the end result of
+the has was still the same in each case.'
